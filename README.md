@@ -67,8 +67,8 @@ Si Manovich viera estos ejemplos hoy, seguramente diría que el software ha toma
 
 - Manovich, L. (2013). *El software toma el mando*. Barcelona: Editorial UOC.
 - Manovich, L. (2005). *El lenguaje de los nuevos medios*. Barcelona: Paidós.
-- Duolingo. (2025). *Como funciona Duolingo*. (https://es.duolingo.com/)
-- Kahoot!. (2025). *Que es Kahoot*. (https://kahoot.it/)
+- Duolingo (2025). *Como funciona Duolingo*. (https://es.duolingo.com/)
+- Kahoot (2025). *Que es Kahoot*. (https://kahoot.it/)
 
 ---
 
