@@ -36,7 +36,7 @@ Kahoot! es otro ejemplo de hibridación educativa, pero este funciona de forma d
 
 Un persona ejecuta la actividad, que se envia a los diferentes dispositivos como un juego en sus pantallas, dependiendo la maquetacion del tipo de kahoot, tienen diversas formas de puntuar y responder. Hay **tiempo límite** para responder y **ranking** en directo. La emoción de ver cómo subes o bajas en la clasificación mientras juegas es algo que no te da un examen tradicional y por eso mismo a llegado a ser tan conocido Kahoot.
 
-Kahoot! hibrida:
+Kahoot:
 - El **formato de concurso o trivia** (tipico juego de preguntas y respuestas de toda la vida).
 - La **gamificación** (las puntuaciones, niveles y la competitividad).
 - La **interacción multidispositivo** (cada uno desde su sitio, pero todos conectados).
